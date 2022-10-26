@@ -1,0 +1,104 @@
+{
+
+
+ "products":[
+
+    {
+
+        "id":"1",
+        "name":"Apple Iphone 12 Max",
+        "desc":"12th gen",
+        "price":100000,
+        "color":"black",
+        "image":"https://cdn.pixabay.com/photo/2014/08/05/10/30/iphone-410324__340.jpg"
+    },
+    {
+
+
+
+        "id":"2",
+        "name":"Apple Iphone 11 Max",
+        "desc":"12th gen",
+        "price":100000,
+        "color":"black",
+        "image":"https://cdn.pixabay.com/photo/2014/08/05/10/30/iphone-410324__340.jpg"
+
+
+
+    },
+    {
+
+
+        
+        "id":"3",
+        "name":"Apple Iphone 10 Max",
+        "desc":"12th gen",
+        "price":100000,
+        "color":"black",
+        "image":"https://cdn.pixabay.com/photo/2014/08/05/10/30/iphone-410324__340.jpg"
+    },
+    {
+
+        "id":"4",
+        "name":"Apple Iphone 10 Max",
+        "desc":"12th gen",
+        "price":100000,
+        "color":"black",
+        "image":"https://cdn.pixabay.com/photo/2014/08/05/10/30/iphone-410324__340.jpg"
+
+
+    },
+    {
+
+        
+        "id":"5",
+        "name":"Apple Iphone 12 Max",
+        "desc":"12th gen",
+        "price":100000,
+        "color":"black",
+        "image":"https://cdn.pixabay.com/photo/2014/08/05/10/30/iphone-410324__340.jpg"
+    },
+    {
+
+
+
+        
+        "id":"6",
+        "name":"Apple Iphone 12 Max",
+        "desc":"12th gen",
+        "price":100000,
+        "color":"black",
+        "image":"https://cdn.pixabay.com/photo/2014/08/05/10/30/iphone-410324__340.jpg"
+    }
+   
+
+    
+
+
+ ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
